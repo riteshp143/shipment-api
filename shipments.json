@@ -1,1 +1,1 @@
-[]  
+[{"id": 1, "destination": "Mumbai", "weight": 15.5, "status": "pending"}, {"destination": "Mumbai", "id": 1, "status": "pending", "weight": 15.5}, {"destination": "Mumbai", "id": 1, "status": "pending", "weight": 15.5}]
